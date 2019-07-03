@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\bin\Debug\NhanVienDAL.dll
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\bin\Debug\NhanVienDAL.pdb
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\obj\Debug\NhanVienDA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\obj\Debug\NhanVienDA.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\obj\Debug\NhanVienDAL.dll
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\obj\Debug\NhanVienDAL.pdb
+C:\Users\user\source\repos\Baitap2\NhanVienDAL\obj\Debug\NhanVienDA.csprojAssemblyReference.cache

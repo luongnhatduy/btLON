@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="top-container">
+        <div class="top-links">
+            <ul class="left-toplinks">
+                <li><a>Trang chủ</a></li>
+                <li><a >Giới thiệu</a> </li>
+                <li><a >Liên hệ</a></li>
+                <li><a style="color: yellow;" >0389129393</a></li>
+            </ul>       
+        </div>
+    </div>        
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

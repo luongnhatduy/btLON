@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\bin\Debug\NhaCungCapDA.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\bin\Debug\NhaCungCapDA.pdb
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\obj\Debug\NhaCungCapDA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\obj\Debug\NhaCungCapDA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\obj\Debug\NhaCungCapDA.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\obj\Debug\NhaCungCapDA.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapDA\obj\Debug\NhaCungCapDA.pdb

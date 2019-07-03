@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Baitap2\SqlProvider\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\SqlProvider\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\SqlProvider\obj\Debug\SqlProvider.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\SqlProvider\obj\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\SqlProvider\obj\Debug\SqlProvider.pdb

@@ -1,0 +1,184 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Điện máy Lương Duy</title>
+    <link href="CSS/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="body">
+  
+    <div class="top-container">
+        <div class="link">
+        		<ul>
+        			<li><a href="home.aspx">Trang chủ</a></li>
+                    <li><a href="gioithieu.aspx">Giới thiệu</a></li>
+                    <li><a href="lienhe.aspx">Liên hệ</a></li>
+                    <li style="margin-left:400px"><a href="dangki.aspx">Đăng kí</a></li>
+                    <li><a href="dangnhap.aspx">Đăng nhập</a></li>
+        		</ul>
+        </div>
+    </div>        
+    <div class="header">
+        <div class="logo">
+            <img src="/IMG/logo2.png" />
+        </div>
+        
+        <div class="img-header">
+            <ul>
+                <img src="IMG/bao-hanh-tan-nha.png" />
+                <img src="IMG/hang-chinh-hang.png" />
+                <img src="IMG/tra-gop.png" />
+            </ul>
+        </div>    
+        <div class="img2-header">
+            <ul>
+                <a href="https://www.facebook.com/luong.duy98nhat"><img src="IMG/face.png" /></a>
+                <a href="https://mail.google.com/mail/u/0/#inbox"><img src="IMG/g.png" /></a>
+                <a href="https://mp3.zing.vn/"> <img src="IMG/zing-me.png" /></a>
+                <a href="https://www.youtube.com/?gl=VN"> <img src="IMG/youtube.png" /></a>
+               
+            </ul>
+        </div>    
+        <div class="dmsp">
+        <div class="text1">
+            <span>DANH MỤC SẢN PHẨM</span>
+        </div>   
+        <img src="IMG/cat-bg1.jpg" />
+        <div class="dm">
+            <ul>
+                <li>
+                    <a href="dientu.aspx">
+                        <img src="IMG/dien-tu.gif" />
+                        <span>TIVI</span>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="dieuhoa.aspx">
+                        <img src="IMG/dieu-hoa.gif" />
+                        <span>ĐIỀU HÒA</span>
+                    </a>
+
+                </li>
+                  <li>
+                    <a href="dienlanh.aspx">
+                        <img src="IMG/dien-lanh.gif" />
+                        <span>ĐIỆN LẠNH</span>
+                    </a>
+
+                </li>
+                <li>
+                   <a href="dogiadung.aspx">
+                        <img src="IMG/gia-dung.gif" />
+                        <span>ĐỒ GIA DỤNG</span>
+                    </a>
+
+                </li>
+             
+                <li>
+                   <a href="laptop.aspx">
+                        <img src="IMG/laptop.gif" />
+                        <span>LAPTOP</span>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="thietbivp.aspx">
+                        <img src="IMG/thiet-bi-van-phong.gif" />
+                        <span>MÁY TÍNH BẢNG</span>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="kithuatso.aspx">
+                        <img src="IMG/ky-thuat-so.gif" />
+                        <span>MÁY ẢNH</span>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="dienthoai.aspx">
+                        <img src="IMG/dien-thoai.gif" />
+                        <span>ĐIỆN THOẠI</span>
+                    </a>
+
+                </li>
+               <li>
+                    <a href="khuyenmai.aspx">
+                        <img src="IMG/khuyen-mai-hot.gif" />
+                        <span>KHUYẾN MÃI</span>
+                    </a>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+        <div class="bottom-header">
+            
+            <div class="form-search">
+                <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" autocomplete="OfF" autocorrect="off" autocapitalize="off" ">
+                <button type="submit" title="Tìm" class="button"><span><span>&nbsp;</span></span></button>
+            </div>
+            <div class="cart">
+                <a href="giohang.aspx" style="  text-decoration: none;color:white"><span>GIỎ HÀNG</span></a>
+                <a href="giohang.aspx"><img src="IMG/cart.png" /></a>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-left">
+            <img src="IMG/20181226-Left-Float-Banner-.png" />
+        </div>
+        <div class="footer-right">
+            <img src="IMG/20181226-Right-Float-Banner-.png" />
+        </div>
+    </div>
+    <form id="form1" runat="server">
+    <div >
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    
+    <div class="footer-container">
+        <div class="address">
+            <ul>
+                <li> 
+                    <p><b>LD Giải Phóng</b></p>
+                    <p>348 Giải Phóng - Hà Nội</p>
+                </li>
+                 <li> 
+                    <p><b>LD Long Biên</b></p>
+                    <p>549 Nguyễn Văn Cừ,</p>
+                    <p>Long Biên, Hà Nội</p>
+                </li>
+                 <li> 
+                    <p><b>LD Nam Định</b></p>
+                    <p>212 Trần Hưng Đạo - Nam Định</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+     <div class="footer-top">
+         <p><strong>HỆ THỐNG LƯƠNG DUY GROUP</strong> </p>
+    </div>
+    <div class="clear_box">
+           <div class="contact-info">
+                <p >© 2015 VHC Corporation. All rights reserved</p>
+                <p><b>Công ty TNHH Thương mại VHC</b> | VHC Tower, 488 Trần Cung - Hà Nội</p>
+                <p >Điện thoại:0389129393 </p>
+				<p>Chăm sóc khách hàng: cskh@ld.com.vn – Hotline: <a>19001788</a></p>
+				<p>Thẻ khách hàng và phiếu mua hàng: cardcenter@ld.com.vn</p>
+				<p>Mã số doanh nghiệp: 0105690657</p>
+				<p>Đăng ký lần đầu: 05/12/2011</p>
+				<p>Đăng ký thay đổi lần thứ 5: 17/04/2014</p>
+				<p>Nơi cấp Giấy chứng nhận đăng ký doanh nghiệp: Sở Kế hoạch và Đầu tư – Thành phố Hà Nội</p>
+            </div>
+            <div class="clear_box_img">
+                <img src="IMG/vnr.png" style="width:452px;height:100px">
+            </div>
+    </div>
+    </form>
+</body>
+</html>

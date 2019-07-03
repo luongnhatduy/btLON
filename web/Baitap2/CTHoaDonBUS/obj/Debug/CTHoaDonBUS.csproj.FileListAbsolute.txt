@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\CTHoaDonBUS.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\CTHoaDonBUS.pdb
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\CTHoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\CTHoaDonDA.pdb
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\obj\Debug\CTHoaDonBUS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\obj\Debug\CTHoaDonBUS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\obj\Debug\CTHoaDonBUS.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\obj\Debug\CTHoaDonBUS.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonBUS\obj\Debug\CTHoaDonBUS.pdb

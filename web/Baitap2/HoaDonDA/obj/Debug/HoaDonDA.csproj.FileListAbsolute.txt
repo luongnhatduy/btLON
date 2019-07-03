@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Baitap2\HoaDonDA\bin\Debug\HoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\HoaDonDA\bin\Debug\HoaDonDA.pdb
+C:\Users\user\source\repos\Baitap2\HoaDonDA\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\HoaDonDA\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\HoaDonDA\obj\Debug\HoaDonDA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\HoaDonDA\obj\Debug\HoaDonDA.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\HoaDonDA\obj\Debug\HoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\HoaDonDA\obj\Debug\HoaDonDA.pdb

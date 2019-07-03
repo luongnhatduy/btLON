@@ -1,0 +1,10 @@
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.csprojAssemblyReference.cache
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.Form1.resources
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.Properties.Resources.resources
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.csproj.GenerateResource.cache
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.csproj.CoreCompileInputs.cache
+C:\Users\luongnhatduy\source\repos\cau1\cau1\bin\Debug\cau1.exe.config
+C:\Users\luongnhatduy\source\repos\cau1\cau1\bin\Debug\cau1.exe
+C:\Users\luongnhatduy\source\repos\cau1\cau1\bin\Debug\cau1.pdb
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.exe
+C:\Users\luongnhatduy\source\repos\cau1\cau1\obj\Debug\cau1.pdb

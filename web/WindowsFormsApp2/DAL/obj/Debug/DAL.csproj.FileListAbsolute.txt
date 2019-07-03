@@ -1,0 +1,6 @@
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\bin\Debug\DAL.dll
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\bin\Debug\DAL.pdb
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\obj\Debug\DAL.dll
+C:\Users\luongnhatduy\source\repos\WindowsFormsApp2\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Baitap2\HangHoaDA\bin\Debug\HangHoaDA.dll
+C:\Users\user\source\repos\Baitap2\HangHoaDA\bin\Debug\HangHoaDA.pdb
+C:\Users\user\source\repos\Baitap2\HangHoaDA\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\HangHoaDA\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\HangHoaDA\obj\Debug\HangHoaDA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\HangHoaDA\obj\Debug\HangHoaDA.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\HangHoaDA\obj\Debug\HangHoaDA.dll
+C:\Users\user\source\repos\Baitap2\HangHoaDA\obj\Debug\HangHoaDA.pdb

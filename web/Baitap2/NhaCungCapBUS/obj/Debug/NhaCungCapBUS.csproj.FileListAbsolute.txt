@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\NhaCungCapBUS.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\NhaCungCapBUS.pdb
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\NhaCungCapDA.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\NhaCungCapDA.pdb
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\obj\Debug\NhaCungCapBUS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\obj\Debug\NhaCungCapBUS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\obj\Debug\NhaCungCapBUS.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\obj\Debug\NhaCungCapBUS.dll
+C:\Users\user\source\repos\Baitap2\NhaCungCapBUS\obj\Debug\NhaCungCapBUS.pdb

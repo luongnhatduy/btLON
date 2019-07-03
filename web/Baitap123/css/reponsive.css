@@ -1,0 +1,207 @@
+@media (max-width: 375px) {
+ 	
+	.logo1{
+		margin-left: 20px;
+	}
+	.info ul{
+		margin-left: 69px;
+	}
+	.banner img{
+		width: 0;
+	}
+	.login{
+	margin-left: -201px;
+    margin-top: 83px;
+	}
+	.registration {
+		margin-top: 83px;
+		margin-left:-92px;
+	}	
+	.navbar-header a i{
+		    margin-left: 10px;
+
+	}
+	.body{
+		margin-top: 114px;
+	}
+	
+	.container-fluid a i{
+		position: relative;
+		top: -49px;
+   		left: -147px;
+	}
+	.navbar-header button{
+		top :-3px;
+	}
+	.navbar-collapse{
+		background:  #78ad11;
+	    position: relative;
+	    z-index: 999;
+	    top: -52px;
+	    left: -1px;
+	    width: 375px;
+		}
+	.navbar-nav li{
+	    margin-top: 34px;
+	    margin-left: -199px;
+	    
+	}
+	.dropdown-toggle{
+		background: #78ad11 !important;
+	}
+	.body{
+		margin-top: 135px;
+	}
+	.body span{
+		font-size: 16px;
+		margin-left: 26px;
+	}
+	.btn-nav{
+		margin-left:-592px; 
+	}
+	.btn-nav ul li a {
+		font-size: 12px;
+	}	
+	.img img{
+		display: none;
+	}
+	.trainghiem{
+		margin-left: -91px;
+	}
+	.options ul li a{
+		margin-left: 68px;
+	}
+
+	.arrow-last ul li:first-child {
+	    width: 76px;
+	    height: 76px;
+	}
+	.arrow-last ul li:nth-child(3) {
+	    width: 76px;
+	    height: 76px;
+	}
+	.arrow-last ul li:nth-child(5) {
+	    width: 76px;
+	    height: 76px;
+	}
+	.arrow-last ul li:nth-child(7) {
+	    width: 76px;
+	    height: 76px;
+	}
+	.arrow-last ul li:nth-child(9) {
+	   width: 76px;
+	    height: 76px;
+	}
+	.arrow-last ul li:nth-child(6) {
+		margin-left: 24px;
+	}
+	.arrow-last ul li img{
+		margin-top:21px;
+	}
+	.arrow-last ul li h5{
+		color: white;
+		text-align: center;
+		margin-top:27px;
+		font-size: 12px;
+	}
+	.arrow-last{
+		margin-top: 16px;
+		margin-left: -44px;
+	}
+	.arrow-last ul li{
+		 margin-left: 11px;
+	}
+	.body-content span{
+		font-size: 20px; 
+		margin-left: 78px;
+		
+	}
+	.body-content {
+		margin-top: 0px;
+	}
+	.body-dkvip {
+		margin-top: 850px;
+	}
+	.col-md-3 a img{
+		margin-left: 20px;
+	}
+	.col-md-3 a i{
+		margin:10px 124px; 
+	}
+	.body-dkvip {
+		display: none !important;
+	}
+	.body-minigame{
+		width: 435px;
+	    margin-left: -30px;
+	    margin-top: 837px;
+	}
+	.anh1 img {
+		margin-left: 34px;
+	}	
+	.col-md-4{
+		margin-left: 13px;
+  		width: 387px;
+  		margin-top: 49px;
+	}	
+	.body-right{
+		margin-left: 10px;
+		margin-top: 5000px;
+	}
+	.minigame{
+		margin-top:6120px;
+	}
+	.thuvien{
+		margin-top: 50px !important;
+	}
+	.google-search{
+		width: 358px;
+	}
+	
+	.vinhdanh{
+		width: 358px !important;
+	}
+	.tinmoi ul li{
+		width: 358px !important;
+	}
+	.xemthem{
+		margin-right: 16px;	
+	}
+	.fb{
+		width: 358px;
+	}
+	.khoinghiep{
+		width: 358px;
+	}
+	.khoinghiep img{
+		width: 358px !important;
+	}
+	.doc{
+		width: 358px !important;
+	}
+	.docnhieunhat{
+		width: 358px !important;
+	}
+	.thongke{
+		width: 358px !important;
+	}
+	.thongketv{
+		width: 358px !important;
+	}
+	.minigame p{
+		font-size: 20px;
+	}
+	.mini .col-md-4{
+		margin-left:-27px;
+	}
+	.bodysay{
+		display: none;
+	}
+} 	
+	
+
+@media (min-width: 1024px) and (max-width: 1360px) {
+	.logo1{
+		 margin-left: 50px;
+	}
+}

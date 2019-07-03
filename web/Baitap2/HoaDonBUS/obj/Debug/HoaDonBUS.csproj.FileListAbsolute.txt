@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\obj\Debug\HoaDonBUS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\obj\Debug\HoaDonBUS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\HoaDonBUS.dll
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\HoaDonBUS.pdb
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\HoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\HoaDonDA.pdb
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\obj\Debug\HoaDonBUS.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\obj\Debug\HoaDonBUS.dll
+C:\Users\user\source\repos\Baitap2\HoaDonBUS\obj\Debug\HoaDonBUS.pdb

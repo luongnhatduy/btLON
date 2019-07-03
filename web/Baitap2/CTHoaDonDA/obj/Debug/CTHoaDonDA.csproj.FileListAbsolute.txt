@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\bin\Debug\CTHoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\bin\Debug\CTHoaDonDA.pdb
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\obj\Debug\CTHoaDonDA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\obj\Debug\CTHoaDonDA.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\obj\Debug\CTHoaDonDA.dll
+C:\Users\user\source\repos\Baitap2\CTHoaDonDA\obj\Debug\CTHoaDonDA.pdb

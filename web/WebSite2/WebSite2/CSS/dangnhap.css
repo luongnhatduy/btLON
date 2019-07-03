@@ -1,0 +1,50 @@
+﻿#dangnhap {
+    width: auto;
+    height:300px;
+    margin: 50px 500px auto;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+#tb {
+    margin-left: 380px;
+}
+
+.khung {
+    background: #e5f321fa;
+    width: auto;
+    margin: auto;
+    height:200px;
+    padding-top:50px;
+}
+
+.chu {
+
+    margin: 20px;
+}
+
+.input {
+    padding: 20px 15px 25px 35px;
+}
+
+.txt {
+    padding: 5px;
+    width: 190px;
+    margin-left:5px;
+}
+
+.tyt {
+    padding: 5px;
+    width: 190px;
+}
+
+.tzt {
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+.nut {
+    padding: 8px;
+    color: red;
+}

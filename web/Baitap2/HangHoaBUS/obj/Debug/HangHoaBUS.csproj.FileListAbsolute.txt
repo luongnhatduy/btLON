@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\HangHoaBUS.dll
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\HangHoaBUS.pdb
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\HangHoaDA.dll
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\SqlProvider.dll
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\HangHoaDA.pdb
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\bin\Debug\SqlProvider.pdb
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\obj\Debug\HangHoaBUS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\obj\Debug\HangHoaBUS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\obj\Debug\HangHoaBUS.csproj.CopyComplete
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\obj\Debug\HangHoaBUS.dll
+C:\Users\user\source\repos\Baitap2\HangHoaBUS\obj\Debug\HangHoaBUS.pdb

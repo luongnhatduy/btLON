@@ -1,0 +1,9 @@
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\bin\Debug\bus1.dll
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\bin\Debug\bus1.pdb
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\bin\Debug\ClassLibrary1.dll
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\bin\Debug\ClassLibrary1.pdb
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\obj\Debug\bus1.csprojAssemblyReference.cache
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\obj\Debug\bus1.csproj.CoreCompileInputs.cache
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\obj\Debug\bus1.csproj.CopyComplete
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\obj\Debug\bus1.dll
+C:\Users\luongnhatduy\source\repos\QuanLiSinhVien\bus1\obj\Debug\bus1.pdb

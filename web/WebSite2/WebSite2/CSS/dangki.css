@@ -1,0 +1,31 @@
+﻿#dangky {
+    width: 988px;
+    height: 400px;
+    margin: 20px 344px auto;
+    display: block;
+    text-align: center;
+    padding: 20px;
+   
+}
+
+b {
+    width: auto;
+    font-family: Arial;
+    margin: 45px auto;
+    text-align: center;
+}
+
+#bang {
+    width: auto;
+    margin: 50px 300px auto;
+}
+
+.dangky-button {
+    border-radius: 49px;
+    width: 99px;
+    height: 46px;
+    margin: 20px 80px auto;
+    background-color: darkgreen;
+}
+
+  
